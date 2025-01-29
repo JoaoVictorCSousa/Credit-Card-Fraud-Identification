@@ -35,3 +35,7 @@ This project uses **Supervised Machine Learning - ** to identify fraudulent cred
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+   
+## 📌 Decision Tree Visualization    
+![Decision Tree](image.png)
